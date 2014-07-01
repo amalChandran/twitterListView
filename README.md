@@ -1,14 +1,7 @@
-twitterListView
-===============
-
-A simple listview with
-
 <h1>Android QuickReturn Listview</h1>
 
-This is a implementation of the QuickReturn UI developed by Roman Nurik and Nick Butcher for a listview. 
+A simple listview with pulltorefresh and quickReturn pattern.
 
-<h2>**UPDATE**</h2>
-I added a QuickReturn UI for a footer, Just like in the G+ app.
 
 ![image](https://lh3.googleusercontent.com/-eBE7zTgSYqA/UMuRHF9DnQI/AAAAAAAAASI/TjEjeXlzZ-k//framed_device-2012-12-14-214259.png)
 ![image](https://lh5.googleusercontent.com/-W8po_yHXh8Y/UJQYJs5SDhI/AAAAAAAAAJQ/1NSAAtCUqAI//QuickReturnListView1.png)
