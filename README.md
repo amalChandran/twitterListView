@@ -1,4 +1,4 @@
-<h1>Android QuickReturn Listview</h1>
+<h1>Android Twitter Listview</h1>
 
 A simple listview with pulltorefresh and quickReturn pattern.
 
