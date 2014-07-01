@@ -1,13 +1,11 @@
 <h1>Android Twitter Listview</h1>
 
-A simple listview with pulltorefresh and quickReturn pattern.
+A simple listview + pulltorefresh + quickReturn pattern . This pattern is seen in the official twitter app for android.
 
 
-![image](https://lh3.googleusercontent.com/-eBE7zTgSYqA/UMuRHF9DnQI/AAAAAAAAASI/TjEjeXlzZ-k//framed_device-2012-12-14-214259.png)
-![image](https://lh5.googleusercontent.com/-W8po_yHXh8Y/UJQYJs5SDhI/AAAAAAAAAJQ/1NSAAtCUqAI//QuickReturnListView1.png)
-![image](https://lh3.googleusercontent.com/-irOPY6vGZ_g/UJQYJrscGCI/AAAAAAAAAJM/0lWAyt8l_E0//QuickReturnListView2.png)
+![image](https://lh5.googleusercontent.com/-5P4ynTXjMQc/U7KRmajUGuI/AAAAAAAAAGQ/d7dTE5UcjkM/w346-h573/something.gif)
 
-watch the demo at [here](http://youtu.be/Y5uBpe7T-GE)
+watch the demo at [here](https://www.youtube.com/watch?v=wKn6nJWwkrk&feature=youtu.be)
 
 <h2>Devoleped By</h2>
 **Lars Werkman**
