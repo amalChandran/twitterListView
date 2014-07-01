@@ -7,5 +7,5 @@ A simple listview with pulltorefresh and quickReturn pattern.
 
 watch the demo at [here](http://youtu.be/Y5uBpe7T-GE)
 
-<h2>Devoleped By</h2>
+<h4>Devoleped By</h4>
 **Amal Chandran**
