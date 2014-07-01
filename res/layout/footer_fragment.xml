@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <com.amalbit.view.PullToRefreshListView
+        android:id="@android:id/list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:dividerHeight="0dp" 
+        android:divider="@null"/>
+
+    <LinearLayout
+        android:id="@+id/footer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:background="#993333"
+        android:orientation="horizontal" >
+
+        <EditText
+            android:id="@+id/et_tweet"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableRight="@android:drawable/btn_dialog"
+            android:ems="10"
+            android:hint="Your tweet here."
+            android:imeActionId="@+id/action_tweet"
+            android:imeActionLabel="Tweet"
+            android:lines="1"
+            android:maxLength="140"
+            android:maxLines="1"
+            android:scrollHorizontally="true"
+            android:singleLine="true" >
+        </EditText>
+    </LinearLayout>
+
+</RelativeLayout>
